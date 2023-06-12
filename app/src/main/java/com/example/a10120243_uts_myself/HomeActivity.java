@@ -12,7 +12,7 @@ import androidx.core.view.GravityCompat;
 import androidx.drawerlayout.widget.DrawerLayout;
 
 public class HomeActivity extends AppCompatActivity {
-    //10 Juni 2023 - 10120225 - Adi Tata Koswara - IF-6
+    //10 Juni 2023 - 10120243 - Mohammad Mausa Gani - IF-6
     DrawerLayout drawerLayout;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
